@@ -1,3 +1,4 @@
 pain
 jambon
 beurre
+cornichon
